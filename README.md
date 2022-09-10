@@ -1,2 +1,1 @@
-# Electronics-Systems-Lab
-Demonstration of the mini-lab component activities conducted for the course Electronics Systems Lab (19ECE181).
+Demonstration of the mini-lab component activities conducted for the course Electronics Systems Lab (19ECE181). It implements a hardware prototype for a specific application and develops a basic graphical user interface suitable for data visualization. Also, it designs and develops microcontroller-based solutions for automating a particular process.
